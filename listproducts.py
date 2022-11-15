@@ -7,3 +7,4 @@ products = db.products
 for p in products.find():
     print(p["name"], p["price"])
 
+# Add comment here!
